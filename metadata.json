@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Dashboard",
+  "description": "A responsive Client/Admin dashboard featuring role-based access control, simulated CRUD operations, data visualization with Recharts, and AI-powered project insights using the Gemini API.",
+  "requestFramePermissions": []
+}
